@@ -5,6 +5,6 @@ de uma técnica de busca num mapa específico. Aplicar a estrutura de dados árv
 IA. Aplicar testes ao sistema para verificar seu funcionamento. Calcular a complexidade de algoritmos para algoritmos de
 buscas.
 
-</hr>
-#Para rodar
+<hr/>
+<h1>Para rodar</h1>
 Basta ter o Python 12 instalado e executar o arquivo em um jupyter notebook e importar as bibliotecas necessárias caso não as tenha.
